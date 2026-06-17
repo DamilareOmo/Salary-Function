@@ -26,3 +26,6 @@ This project demonstrates:
 1. Open RStudio.
 2. Run unzip_employee_profile.R.
 3. The ZIP file will be extracted and the employee data displayed.
+
+## Conclusion
+In this assignment, salary data was imported and processed using Python. A function was created to retrieve employee details from a dictionary structure with appropriate error handling. Employee information was exported to a CSV file and compressed into a ZIP folder named Employee Profile. Finally, R was used to extract the ZIP file and display the employee data successfully.
