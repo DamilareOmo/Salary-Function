@@ -2,7 +2,7 @@
 # Author: Sodiq Omoniyi
 
 ## Overview
-This project demonstrates:
+This demonstrates:
 - Importing salary data
 - Processing data using a Python dictionary
 - Creating a function to retrieve employee details
