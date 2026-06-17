@@ -1,4 +1,4 @@
-# Module 2 Assignment - Salary Function
+# Salary Function
 # Author: Sodiq Omoniyi
 
 ## Overview
